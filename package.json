@@ -1,12 +1,21 @@
 {
-  "name": "trufflehog-lab",
+  "name": "test_keys",
   "version": "1.0.0",
-  "description": "Test project with secrets for TruffleHog",
-  "main": "index.js",
+  "description": "",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "api_key": "AIzaSyD-FakeAPIKey1234567890",
-  "author": "Brandon Smith",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trufflesecurity/test_keys.git"
+  },
+  "keywords": [
+    "trufflehog"
+  ],
+  "author": "trufflesecurity",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trufflesecurity/test_keys/issues"
+  },
+  "homepage": "https://github.com/trufflesecurity/test_keys"
 }
